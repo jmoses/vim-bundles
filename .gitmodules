@@ -28,3 +28,6 @@
 [submodule "command-t"]
 	path = command-t
 	url = git://git.wincent.com/command-t.git
+[submodule "vim-easygrep"]
+	path = vim-easygrep
+	url = https://github.com/gaving/vim-easygrep.git
