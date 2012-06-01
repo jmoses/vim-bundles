@@ -31,3 +31,6 @@
 [submodule "vim-coffee-script"]
 	path = vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "Command-T"]
+	path = Command-T
+	url = https://github.com/wincent/Command-T.git
