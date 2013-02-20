@@ -28,3 +28,6 @@
 [submodule "command-t"]
 	path = command-t
 	url = git://git.wincent.com/command-t.git
+[submodule "vim-puppet"]
+	path = vim-puppet
+	url = git://github.com/rodjek/vim-puppet.git
