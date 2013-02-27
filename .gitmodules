@@ -31,3 +31,6 @@
 [submodule "vim-puppet"]
 	path = vim-puppet
 	url = git://github.com/rodjek/vim-puppet.git
+[submodule "vim-nagios"]
+	path = vim-nagios
+	url = git://github.com/tejr/vim-nagios.git
