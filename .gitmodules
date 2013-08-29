@@ -34,3 +34,6 @@
 [submodule "vim-nagios"]
 	path = vim-nagios
 	url = git://github.com/tejr/vim-nagios.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
