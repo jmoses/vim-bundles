@@ -27,7 +27,7 @@
 	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule "command-t"]
 	path = command-t
-	url = git://git.wincent.com/command-t.git
+	url = https://github.com/wincent/command-t.git
 [submodule "vim-puppet"]
 	path = vim-puppet
 	url = git://github.com/rodjek/vim-puppet.git
@@ -43,3 +43,6 @@
 [submodule "vim-markdown"]
 	path = vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "vim-python-matchit"]
+	path = vim-python-matchit
+	url = https://github.com/voithos/vim-python-matchit.git
