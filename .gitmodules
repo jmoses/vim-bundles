@@ -46,3 +46,6 @@
 [submodule "vim-python-matchit"]
 	path = vim-python-matchit
 	url = https://github.com/voithos/vim-python-matchit.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline
