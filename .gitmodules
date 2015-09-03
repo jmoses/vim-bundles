@@ -55,3 +55,9 @@
 [submodule "vim-jinja"]
 	path = vim-jinja
 	url = git://github.com/mitsuhiko/vim-jinja.git
+[submodule "Smart-Home-Key"]
+	path = Smart-Home-Key
+	url = git@github.com:vim-scripts/Smart-Home-Key.git
+[submodule "rainbow_parentheses.vim"]
+	path = rainbow_parentheses.vim
+	url = git@github.com:kien/rainbow_parentheses.vim.git
