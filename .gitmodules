@@ -61,3 +61,6 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "rainbow_parentheses.vim"]
+	path = rainbow_parentheses.vim
+	url = https://github.com/eapache/rainbow_parentheses.vim.git
