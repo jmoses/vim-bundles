@@ -58,6 +58,6 @@
 [submodule "Smart-Home-Key"]
 	path = Smart-Home-Key
 	url = git@github.com:vim-scripts/Smart-Home-Key.git
-[submodule "rainbow_parentheses.vim"]
-	path = rainbow_parentheses.vim
-	url = git@github.com:kien/rainbow_parentheses.vim.git
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
