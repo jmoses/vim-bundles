@@ -64,3 +64,6 @@
 [submodule "rainbow_parentheses.vim"]
 	path = rainbow_parentheses.vim
 	url = https://github.com/eapache/rainbow_parentheses.vim.git
+[submodule "vim-indent-object"]
+	path = vim-indent-object
+	url = https://github.com/michaeljsmith/vim-indent-object
