@@ -70,3 +70,9 @@
 [submodule "vim-crystal"]
 	path = vim-crystal
 	url = https://github.com/rhysd/vim-crystal.git
+[submodule "vim-elixir"]
+	path = vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
