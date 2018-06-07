@@ -85,3 +85,6 @@
 [submodule "vim-buffergator"]
 	path = vim-buffergator
 	url = git@github.com:jeetsukumaran/vim-buffergator.git
+[submodule "promptline.vim"]
+	path = promptline.vim
+	url = git@github.com:edkolev/promptline.vim.git
