@@ -88,3 +88,6 @@
 [submodule "promptline.vim"]
 	path = promptline.vim
 	url = git@github.com:edkolev/promptline.vim.git
+[submodule "vim-rhubarb"]
+	path = vim-rhubarb
+	url = git@github.com:tpope/vim-rhubarb.git
