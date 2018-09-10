@@ -43,9 +43,6 @@
 [submodule "vim-gitgutter"]
 	path = vim-gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
-[submodule "vim-jinja"]
-	path = vim-jinja
-	url = git://github.com/mitsuhiko/vim-jinja.git
 [submodule "Smart-Home-Key"]
 	path = Smart-Home-Key
 	url = git@github.com:vim-scripts/Smart-Home-Key.git
